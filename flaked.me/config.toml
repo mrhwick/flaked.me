@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://mrhwick.github.io/flaked.me/"
 languageCode = "en"
 title = "Flaked.me"
 theme = "vex-hugo"
