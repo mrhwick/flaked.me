@@ -1,2 +1,3 @@
 **/**.DS_STORE
 flaked.me/public
+!flaked.me/public/CNAME
